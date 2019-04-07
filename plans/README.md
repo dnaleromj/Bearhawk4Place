@@ -4,11 +4,11 @@ Build Plan
 Build Prep
 ----------
 
-### Tools and Fixtures
-1. Clear space at warehouse
+### Space, Tools, Fixtures
+1. - [ ] Clear space at warehouse
 2. Build table
-	- EAA build table
-	- Steel fuselage ficture
+	- [ ] [EAA build table](eaabuildtable.md)
+	- [ ] [Steel fuselage fixture](steelfixture.md)
 3. Tools
 	- [ ] [Required Tools](requiredtools.md)
 	- [ ] [Optional Tools](optionaltools.md)
@@ -18,6 +18,3 @@ Build Prep
 
 ### 
 
-
- 
- poop # [checkbox:checked]
