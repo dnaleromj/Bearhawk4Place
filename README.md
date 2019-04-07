@@ -1,11 +1,12 @@
-# Bearhawk4Place
+# Moreland Family Bearhawk 4 Place Build
 
 This repostory contains the 
- - build [plan](plans/)
- - build log (i think
- - aircraft and component designs and customizations
+ - Build [plan](plans/)
+ - Build [log](logs/)
+ - Aircraft and component [designs and customizations](designs/)
  
 for the [Bearhawk 4 Place](http://https://bearhawkaircraft.com) airplane that I've started building.
+
 
 Below are some images of an already completed Bearhawk
 
