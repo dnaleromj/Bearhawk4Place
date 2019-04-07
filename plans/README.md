@@ -10,8 +10,8 @@ Build Prep
 	- EAA build table
 	- Steel fuselage ficture
 3. Tools
-	 - - [ ] [Required Tools](requiredtools.md)
-	 - - [ ] [Optional Tools](optionaltools.md)
+	- [ ] [Required Tools](requiredtools.md)
+	- [ ] [Optional Tools](optionaltools.md)
 ### Fuselage Construction
 
 ### Empenage
