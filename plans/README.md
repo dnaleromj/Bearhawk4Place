@@ -10,7 +10,8 @@ Build Prep
 	1. EAA build table
 	2. Steel fuselage ficture
 3. Tools
-
+	1. - [ ] Required Tools
+	2. - [ ] Optional Tools
 ### Fuselage Construction
 
 ### Empenage
@@ -18,5 +19,5 @@ Build Prep
 ### 
 
 
- unchecked # [checkbox:unchecked]
+ 
  poop # [checkbox:checked]
