@@ -7,6 +7,7 @@ This repostory contains the
  
 for the [Bearhawk 4 Place](http://https://bearhawkaircraft.com) airplane that I've started building.
 
+
 Below are some images of an already completed Bearhawk
 
 ![](/assets/images/CGFBH1.jpg)![](/assets/images/CGFBH2.jpg)
