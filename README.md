@@ -1,7 +1,7 @@
 # Bearhawk4Place
 
 This repostory contains the 
- - build plan
+ - build [plan](plans/)
  - build log (i think
  - aircraft and component designs and customizations
  
