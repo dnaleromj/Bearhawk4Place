@@ -20,6 +20,8 @@ I'll document the EAA build table plus 4 foot top (can I call it the Newton top?
 | 100 |	#8 x 1-1/2" Construction Screws| 9.20 |
 | 1	|Box of 3d Finishing Nails| |
 | 1	|16 oz Elmer's Carpenter's Wood Glue| |
+|   |   | 335.15 |
+
 
 
 
