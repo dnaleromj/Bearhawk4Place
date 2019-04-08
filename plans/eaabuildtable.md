@@ -41,4 +41,5 @@ I'll document the EAA build table plus 4 foot top (can I call it the Newton top?
 | 12 | 21" | 21" | 21" | 21" | 8.5"* |
 | 13 | 21" | 21" | 21" | 21" | 8.5"* |
 | 14 | 8.5"* | 8.5"* | 8.5"* | 8.5"* | 8.5"* |
+
 *Cut to match lower legs
