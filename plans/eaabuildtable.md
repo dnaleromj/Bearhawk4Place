@@ -25,7 +25,7 @@ I'll document the EAA build table plus 4 foot top (can I call it the Newton top?
 
 # 2x4 Cutting Schedule
 
-| 2x4 # |	Cut to lengths |||||
+| 2x4 # |	Cut |||||
 | --- | --- | --- | --- | --- | --- |
 | 1 |	60" |	33" ||||
 | 2	| 60"	| 33"	||||		
