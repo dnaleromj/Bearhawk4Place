@@ -10,7 +10,7 @@ I'll document the EAA build table plus 4 foot top (can I call it the Newton top?
 # Materials for 4 tables
 
 | Quantity | Material | Est Cost |
-| --- | --- | --- |
+|----------|----------|----------|
 | 2	|3/4" x 4' x 8' Sanded Exterior Plywood| 105 |
 | 2	|1/2" x 4' x 8' Plywood| 105 |
 | 28	|2" x 4" x 8' Premium Studs| 79.75 |
